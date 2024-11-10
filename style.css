@@ -61,6 +61,22 @@ h1 span {
     margin: 1rem auto;
 }
 
+/* Resume button */
+.resume-button {
+    display: inline-block;
+    padding: 0.7rem 1.5rem;
+    background-color: #ffa500;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.resume-button:hover {
+    background-color: #ff8500;
+}
+
 /* Skills section */
 #skills ul {
     list-style-type: none;
